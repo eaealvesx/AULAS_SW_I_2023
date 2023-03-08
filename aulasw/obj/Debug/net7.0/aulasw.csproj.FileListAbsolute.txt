@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\aulasw\bin\Debug\net7.0\aulasw.exe
+C:\Users\LAB4\Desktop\aulasw\bin\Debug\net7.0\aulasw.deps.json
+C:\Users\LAB4\Desktop\aulasw\bin\Debug\net7.0\aulasw.runtimeconfig.json
+C:\Users\LAB4\Desktop\aulasw\bin\Debug\net7.0\aulasw.dll
+C:\Users\LAB4\Desktop\aulasw\bin\Debug\net7.0\aulasw.pdb
+C:\Users\LAB4\Desktop\aulasw\obj\Debug\net7.0\aulasw.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\aulasw\obj\Debug\net7.0\aulasw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\aulasw\obj\Debug\net7.0\aulasw.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\aulasw\obj\Debug\net7.0\aulasw.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\aulasw\obj\Debug\net7.0\aulasw.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\aulasw\obj\Debug\net7.0\aulasw.dll
+C:\Users\LAB4\Desktop\aulasw\obj\Debug\net7.0\refint\aulasw.dll
+C:\Users\LAB4\Desktop\aulasw\obj\Debug\net7.0\aulasw.pdb
+C:\Users\LAB4\Desktop\aulasw\obj\Debug\net7.0\aulasw.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\aulasw\obj\Debug\net7.0\ref\aulasw.dll
