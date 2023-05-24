@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\bin\Debug\net7.0\exe03.exe
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\bin\Debug\net7.0\exe03.deps.json
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\bin\Debug\net7.0\exe03.runtimeconfig.json
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\bin\Debug\net7.0\exe03.dll
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\bin\Debug\net7.0\exe03.pdb
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\obj\Debug\net7.0\exe03.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\obj\Debug\net7.0\exe03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\obj\Debug\net7.0\exe03.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\obj\Debug\net7.0\exe03.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\obj\Debug\net7.0\exe03.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\obj\Debug\net7.0\exe03.dll
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\obj\Debug\net7.0\refint\exe03.dll
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\obj\Debug\net7.0\exe03.pdb
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\obj\Debug\net7.0\exe03.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\exercicio_1_2_3\exe03\obj\Debug\net7.0\ref\exe03.dll
